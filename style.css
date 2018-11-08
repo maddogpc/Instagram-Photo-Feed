@@ -1,0 +1,113 @@
+body {
+	background-color: #d3d3d3;
+}
+
+.container-fluid {
+	padding: 0;
+	background-color: #f8f9fa;
+}
+
+.DDmenu a {
+	color: #9E9E9E;
+}
+
+.settings {
+	margin-top: 15px;
+}
+
+.menu-list {
+	top: 180%;
+}
+
+.msg {
+	border-width: 1px;
+	border-color: black;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.pic-loc {
+	border-width: 1px;
+	border-color: black;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.nav-pills {
+	background-color: white;
+}
+
+.tab-content {
+	background-color: lightGray;
+}
+
+.img1 {
+    background-image: url("http://cuteimages.net/data/2015/11/i--8217-m-just-a-little-husky-dogs-cuteimages.net.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.img2 {
+    background-image: url("https://media.giphy.com/media/P9S3j56zCE9O/giphy.gif");
+    background-position: center;
+    height: 300px;
+}
+
+.img3 {
+    background-image: url("https://media.giphy.com/media/vd6W6BTTkWW5i/giphy.gif");
+    background-position: center;
+    height: 300px;
+}
+
+.img4 {
+    background-image: url("http://funnyanimals.zayebo.com/files/2009/04/funny-redneck-dog.jpg");
+    height: 300px;
+}
+
+.img5 {
+    background-image: url("https://static.tumblr.com/2c73ceaaf184556fee19392dd687f472/tavhaq2/cpGn9e03x/tumblr_static_2su3k8wvetmos0sc4gk4okkgo_640_v2.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.img6 {
+    background-image: url("https://i.pinimg.com/originals/94/85/66/948566f461cb80fefeddbb853ed9c6fe.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.img7 {
+    background-image: url("http://doggybnb.com/wp-content/uploads/2015/04/taiwfeat-672x372.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.img8 {
+    background-image: url("https://i.ytimg.com/vi/4_9KXxDfXwA/hqdefault.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.img9 {
+    background-image: url("https://i.pinimg.com/originals/36/8e/63/368e63a441d2ab785270c4f35f8f293a.jpg");
+    background-position: center;
+    height: 300px;
+}
+
+.cards {
+	margin-top: 80px;
+}
+
+.card {
+	max-width: 45rem;
+}
+
+.photo-title {
+	display: inline;
+}
+
+.footerd > * {
+	display: inline;
+}
